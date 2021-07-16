@@ -1,3 +1,3 @@
-# file-test-v1.0-
+# the best multi-tool with no patched or outdated programs
 
-# read the readme.txt file thats inside once you download the file
+# read the readme.txt (not readme.md) file thats inside once you download the file
